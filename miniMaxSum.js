@@ -20,3 +20,4 @@ console.log(minSum + " " + maxSum)
 }
 
 miniMaxSum([1, 3, 5, 7, 9])
+// Output 16 24
