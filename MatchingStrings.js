@@ -6,7 +6,7 @@
 // queries = ['ab', 'abc', 'bc ']
 // There are 2 instances of ab', 1  of 'abc' and 0 of 'bc'. For each query, add an element to the return array, result = [2,1,0].
 //Quetion Link: https://bit.ly/3E0uWL6
-//Answer Link: https://bit.ly/3E0uWL6
+//Answer Link: https://bit.ly/3Ch7qbn
 
 
 function matchingStrings(strings, queries) {
