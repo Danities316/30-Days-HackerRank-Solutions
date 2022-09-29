@@ -1,5 +1,5 @@
 // Question Link: shorturl.at/ituW2
-// Solution Link:
+// Solution Link: shorturl.at/qSUVX
 
 // Given an array of integers, where all elements but one occur twice, 
 // find the unique element.
