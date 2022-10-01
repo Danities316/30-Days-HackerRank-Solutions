@@ -2,7 +2,7 @@
 //Flip all the bits (1 to 0 and 0 to ) and return the result
 //as an unsigned integer.
 // Question link: shorturl.at/aciyN
-//Solution Link:
+//Solution Link: shorturl.at/cU469
 
 function flippingBits(n) {
   // Write your code here
