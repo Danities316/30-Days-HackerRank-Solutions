@@ -5,7 +5,7 @@
 // 4 5 6
 // 9 8 9
 // Question Link: https://cutt.ly/UV1Ylya
-// Solution Link:
+// Solution Link: https://cutt.ly/QV1YByt
 
 function diagonalDifference(arr) {
     // Write your code here
