@@ -14,7 +14,9 @@
 // array, printing the value of each non-zero valued index that number of times.
 // example: arr = [1,1,3,2,1]
 // result = [0,3,1,1]
+
 // questionLink: https://cutt.ly/zBxxiXm
+//SolutionLink: https://cutt.ly/3BxxTmA
 
 
 
