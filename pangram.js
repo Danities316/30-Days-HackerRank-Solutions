@@ -5,6 +5,7 @@
 // The string contains all letters in the English alphabet, so return pangram.
 // https://www.ssec.wisc.edu/~tomw/java/unicode.html#x0000 - unicode links
 // questionLink: shorturl.at/oxzL1
+//SolutionLink: shorturl.at/ftSW8
 
 
 function pangrams(s){
