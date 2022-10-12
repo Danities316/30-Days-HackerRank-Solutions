@@ -19,8 +19,6 @@
 //SolutionLink: https://cutt.ly/3BxxTmA
 
 
-
-
 function countingSort(arr) {
 let result = new Array(100).fill(0)
 for(let i of arr){
