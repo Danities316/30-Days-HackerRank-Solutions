@@ -7,7 +7,7 @@
 // B = [0, 2]
 // k = 1
 // questionLink: https://bit.ly/3COg8x7
-//AmswerLink:
+//AmswerLink: https://bit.ly/3z0GVoF
 
 function twoArrays(A, B, k) {
     A.sort((a, b) => a - b)
