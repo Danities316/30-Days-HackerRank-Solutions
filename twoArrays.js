@@ -21,7 +21,7 @@ function twoArrays(A, B, k) {
     return 'YES'
 }
 
-A = [0, 1]
-B = [0, 2]
-k = 1
+let A = [1, 2, 2, 1]
+let B = [3, 3, 3, 4]
+let k = 5
 console.log(twoArrays(A, B, k))
